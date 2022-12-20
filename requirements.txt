@@ -1,0 +1,6 @@
+pandas
+mathplotlib.pyplot
+numpy
+random
+pydeck
+streamlit
