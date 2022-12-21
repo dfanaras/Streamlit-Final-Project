@@ -1,5 +1,5 @@
 pandas
-mathplot == 0.1.9
+mathplot == 0.1
 numpy
 random
 pydeck
